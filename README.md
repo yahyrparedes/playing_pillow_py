@@ -1,6 +1,6 @@
 ## Playing whit PIL / Pillow
 
-![](/Users/yahyrparedes/develop/playing_pillow_py/images/py-pillow.png)
+![](./images/py-pillow.png)
 
 #### PIL (Python Image Library)
 
@@ -32,15 +32,15 @@ python 02_basic.py
 ### Example
 
 - Original
-  ![](/Users/yahyrparedes/develop/playing_pillow_py/images/liger_zero_schneider.jpeg)
+  ![](./images/liger_zero_schneider.jpeg)
 
 - Convert (Gray)
-  ![](/Users/yahyrparedes/develop/playing_pillow_py/images/liger_zero_schneider_gray.jpg)
+  ![](./images/liger_zero_schneider_gray.jpg)
 
 - Rotate
-  ![](/Users/yahyrparedes/develop/playing_pillow_py/images/liger_zero_schneider_3.jpg)
+  ![](./images/liger_zero_schneider_3.jpg)
 
 - Resize
-  ![](/Users/yahyrparedes/develop/playing_pillow_py/images/liger_zero_schneider_100x66.jpg)
+  ![](./images/liger_zero_schneider_100x66.jpg)
 
 
